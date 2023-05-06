@@ -1,0 +1,56 @@
+D:\SDA\Form Applications\Lab 2 prog 2\bin\Debug\net6.0-windows\Lab 2 prog 3.exe
+D:\SDA\Form Applications\Lab 2 prog 2\bin\Debug\net6.0-windows\Lab 2 prog 3.deps.json
+D:\SDA\Form Applications\Lab 2 prog 2\bin\Debug\net6.0-windows\Lab 2 prog 3.runtimeconfig.json
+D:\SDA\Form Applications\Lab 2 prog 2\bin\Debug\net6.0-windows\Lab 2 prog 3.dll
+D:\SDA\Form Applications\Lab 2 prog 2\bin\Debug\net6.0-windows\Lab 2 prog 3.pdb
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab 2 prog 3.csproj.AssemblyReference.cache
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab_2_prog_2.Login.resources
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab_2_prog_2.SignUp.resources
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab 2 prog 3.csproj.GenerateResource.cache
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab 2 prog 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab 2 prog 3.AssemblyInfoInputs.cache
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab 2 prog 3.AssemblyInfo.cs
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab 2 prog 3.csproj.CoreCompileInputs.cache
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab 2 prog 3.dll
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\refint\Lab 2 prog 3.dll
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab 2 prog 3.pdb
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\Lab 2 prog 3.genruntimeconfig.cache
+D:\SDA\Form Applications\Lab 2 prog 2\obj\Debug\net6.0-windows\ref\Lab 2 prog 3.dll
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\bin\Debug\net6.0-windows\Lab 2 prog 3.exe
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\bin\Debug\net6.0-windows\Lab 2 prog 3.deps.json
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\bin\Debug\net6.0-windows\Lab 2 prog 3.runtimeconfig.json
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\bin\Debug\net6.0-windows\Lab 2 prog 3.dll
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\bin\Debug\net6.0-windows\Lab 2 prog 3.pdb
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab 2 prog 3.csproj.AssemblyReference.cache
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab_2_prog_2.Login.resources
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab_2_prog_2.SignUp.resources
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab 2 prog 3.csproj.GenerateResource.cache
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab 2 prog 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab 2 prog 3.AssemblyInfoInputs.cache
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab 2 prog 3.AssemblyInfo.cs
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab 2 prog 3.csproj.CoreCompileInputs.cache
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab 2 prog 3.dll
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\refint\Lab 2 prog 3.dll
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab 2 prog 3.pdb
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab 2 prog 3.genruntimeconfig.cache
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\ref\Lab 2 prog 3.dll
+D:\SDA\Form Applications\Lab 2\Lab 2 prog 3\obj\Debug\net6.0-windows\Lab_2_prog_2.home.resources
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\bin\Debug\net6.0-windows\Lab 2 prog 3.exe
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\bin\Debug\net6.0-windows\Lab 2 prog 3.deps.json
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\bin\Debug\net6.0-windows\Lab 2 prog 3.runtimeconfig.json
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\bin\Debug\net6.0-windows\Lab 2 prog 3.dll
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\bin\Debug\net6.0-windows\Lab 2 prog 3.pdb
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab 2 prog 3.csproj.AssemblyReference.cache
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab_2_prog_2.home.resources
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab_2_prog_2.Login.resources
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab_2_prog_2.SignUp.resources
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab 2 prog 3.csproj.GenerateResource.cache
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab 2 prog 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab 2 prog 3.AssemblyInfoInputs.cache
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab 2 prog 3.AssemblyInfo.cs
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab 2 prog 3.csproj.CoreCompileInputs.cache
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab 2 prog 3.dll
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\refint\Lab 2 prog 3.dll
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab 2 prog 3.pdb
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\Lab 2 prog 3.genruntimeconfig.cache
+D:\SDA\Form Applications\2021se56Lab2\Lab 2 prog 3-4\obj\Debug\net6.0-windows\ref\Lab 2 prog 3.dll

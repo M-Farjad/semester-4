@@ -1,0 +1,39 @@
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login_Form.resources
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\SDA\Form Applications\Lab 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login_Form.resources
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserHomeForm.resources
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\SDA\Form Applications\2021se56Lab3\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

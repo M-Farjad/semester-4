@@ -1,0 +1,17 @@
+D:\SDA\Form Applications\Lab 1\bin\Debug\net6.0-windows\Lab 1.exe
+D:\SDA\Form Applications\Lab 1\bin\Debug\net6.0-windows\Lab 1.deps.json
+D:\SDA\Form Applications\Lab 1\bin\Debug\net6.0-windows\Lab 1.runtimeconfig.json
+D:\SDA\Form Applications\Lab 1\bin\Debug\net6.0-windows\Lab 1.dll
+D:\SDA\Form Applications\Lab 1\bin\Debug\net6.0-windows\Lab 1.pdb
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab 1.csproj.AssemblyReference.cache
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab_1.Form1.resources
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab 1.csproj.GenerateResource.cache
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab 1.AssemblyInfoInputs.cache
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab 1.AssemblyInfo.cs
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab 1.csproj.CoreCompileInputs.cache
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab 1.dll
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\refint\Lab 1.dll
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab 1.pdb
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\Lab 1.genruntimeconfig.cache
+D:\SDA\Form Applications\Lab 1\obj\Debug\net6.0-windows\ref\Lab 1.dll
